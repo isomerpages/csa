@@ -1,0 +1,52 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+- title: Contact Us
+  url: /contact-us/
+- title: Faq
+  url: /faq/
+
+- title: Who We Are
+  url: /who-we-are/our-organisation/
+  sub-links:
+  - title: Who We Are
+    url: /who-we-are/our-organisation/
+  - title: Vision Mission Values
+    url: /who-we-are/vision-missio-values/
+  - title: Corporate Logo
+    url: /who-we-are/corporate-logo/
+
+- title: Legislation
+  url: /legislation/cybersecurity-act/
+  sub-links:
+  - title: Legislation
+    url: /legislation/cybersecurity-act/
+  - title: Forms
+    url: /legislation/forms/
+  - title: Notices
+    url: /legislation/notices/
+  - title: Supplementary References
+    url: /legislation/supplementary-references/
+
+- title: Programmes
+  url: /programmes/csa-common-criteria/
+  sub-links:
+  - title: CSA Common Criteria
+    url: programmes/csa-common-criteria/
+  - title: CSAT Programme
+    url: programmes/csat-programme/
+    
+- title: Resource Room
+  url: /resource-room/
+  sub-links:
+  - title: All
+    url: /resource-room/
+  - title: Subcategory A
+    url: /resource-room/subcategory-A/
+  - title: Subcategory B
+    url: /resource-room/subcategory-B/
+  - title: Subcategory C
+    url: /resource-room/subcategory-C/
