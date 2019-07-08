@@ -5,14 +5,14 @@
 ##################################
 
 # Favicon
-favicon: /images/favicon-isomer.ico
+favicon: /images/favicon.ico
 
 # Agency logo
 agency-logo: /images/csa-logo.jpg
 
 # Hero Banner
-hero-title: Hero title
-hero-subtitle: Hero subtitle
+hero-title: Cyber Security Agency of Singapore
+hero-subtitle: The Cyber Security Agency of Singapore (CSA) is the national agency overseeing cybersecurity strategy, operations, education, outreach, and ecosystem development.
 hero-banner: /images/hero-banner.png
 
 #Call to Action Button
@@ -33,7 +33,7 @@ key-highlights:
     description: Page A is important too
     url: /page-A/
 
-resources-title: Resources
+resources-title: News
 resources-subtitle: Be in the know
-resources-more-button: More Resources
-resources-more-button-url: resource-room/
+resources-more-button: More News
+resources-more-button-url: /news/

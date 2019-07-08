@@ -9,28 +9,25 @@
 locations:
   # HQ Address [REQUIRED]
   - title:
-    address: 5 Maxwell Road<br>1st Storey Tower Block<br>MND Complex<br>Singapore 069110
-    find-directions: https://www.google.com.sg/maps/place/Board+of+Architects+(BOA)/@1.2793714,103.8439926,17z/data=!3m1!4b1!4m5!3m4!1s0x31da1912b8578811:0x6b5e720d6eba45eb!8m2!3d1.2793714!4d103.8461813
-  # Operating Hours [OPTIONAL]
-    operating-hours:
-      - days: Mon - Thu
-        time: 8.30am - 6.00pm
-      - days: Fri
-        time: 8.30am - 5.30pm
-        description: "Closed during lunch: 12.30pm - 1.30pm <br>Closed on Weekends and Public Holidays"
-
+    address: 5 Maxwell Road<br>#03-00 Tower Block, MND Complex<br>Singapore 069110
+    find-directions: https://www.google.com.sg/maps/place/Cyber+Security+Agency+of+Singapore+(CSA)/@1.2790055,103.8436378,17z/data=!3m1!4b1!4m5!3m4!1s0x31da1912bb7472c3:0x47230b69c8d71126!8m2!3d1.2790055!4d103.8458265
 
 # Contact Us
 column:
   - title: General Enquiries & Feedback
     content:
-    - line: +65 6222 5295
-    - line: boarch@singnet.com.sg (email)
+      - line: contact@csa.gov.sg (email)
     # If you have an email, put (email) after the actual email
 
-  - title: Fax
+  - title: SingCERT Incident Reporting
     content:
-    - line: +65 6222 4452
+    - line: +65 6323 5052
+    - line: singcert@csa.gov.sg (email)
+    - line: <a href="https://www.csa.gov.sg/~/media/csa/images/singcert/pgp%20public%20key%20block.pdf">Download PGP Key</a>
+  
+  - title: GOsafeonline
+    content:
+    - line: gosafeonline@csa.gov.sg (email)
 
 # Image
 image-url:
