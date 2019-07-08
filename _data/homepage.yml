@@ -18,20 +18,19 @@ hero-banner: /images/hero-banner.png
 #Call to Action Button
 button:
   - text: Learn More
-    url: /who-we-are/
+    url: /who-we-are/our-organisation/
     
 key-highlights:
-  - title: Highlight A
-    description: Important highlight A is important
-    url: https://google.com
+  - title: Legislation
+    description: Cybersecurity Act
+    url: /legislation/cybersecurity-act/
+  - title: Common Criteria
+    description: Singapore is a Common Criteria Authorising Nation
+    url: /programmes/csa-common-criteria/news/
+  - title: Be Safe Online
+    description: How to defend your business against cyber-attacks
+    url: https://www.csa.gov.sg/news/publications/be-safe-online
     external: true
-  - title: Highlight B
-    description: Important highlight B is equally important
-    url: https://yahoo.com
-    external: true
-  - title: Page A
-    description: Page A is important too
-    url: /page-A/
 
 resources-title: News
 resources-subtitle: Be in the know
