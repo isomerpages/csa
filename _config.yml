@@ -1,5 +1,5 @@
-title: Title
-title-abbreviated: Title
+title: Cyber Security Agency of Singapore
+title-abbreviated: CSA
 description: >- # this means to ignore newlines until "baseurl:"
   Description
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -47,4 +47,6 @@ collections:
     output: true
   programmes:
     output: true
-resources_name: resource-room
+  careers:
+    output: true
+resources_name: news

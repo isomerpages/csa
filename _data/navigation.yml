@@ -4,25 +4,22 @@
 #                                #
 ##################################
 
-- title: Contact Us
-  url: /contact-us/
-- title: Faq
-  url: /faq/
-
 - title: Who We Are
   url: /who-we-are/our-organisation/
   sub-links:
-  - title: Who We Are
+  - title: Our Organisation
     url: /who-we-are/our-organisation/
   - title: Vision Mission Values
-    url: /who-we-are/vision-missio-values/
+    url: /who-we-are/vision-mission-values/
   - title: Corporate Logo
     url: /who-we-are/corporate-logo/
-
+  - title: Test Page
+    url: /who-we-are/test-page/
+  
 - title: Legislation
   url: /legislation/cybersecurity-act/
   sub-links:
-  - title: Legislation
+  - title: Cybersecurity Act
     url: /legislation/cybersecurity-act/
   - title: Forms
     url: /legislation/forms/
@@ -32,21 +29,48 @@
     url: /legislation/supplementary-references/
 
 - title: Programmes
-  url: /programmes/csa-common-criteria/
+  url: /programmes/csa-common-criteria/about/
   sub-links:
   - title: CSA Common Criteria
-    url: programmes/csa-common-criteria/
+    url: /programmes/csa-common-criteria/about/
   - title: CSAT Programme
-    url: programmes/csat-programme/
+    url: /programmes/csat-programme/
+  - title: Cybersecurity Career Mentoring Programme
+    url: /programmes/cybersecurity-career-mentoring-programme/
+  - title: Innovation Cybersecurity Ecosystem @ Block71
+    url: /programmes/ICE71/
+  - title: Co-innovation and Development Proof-of-Concept Funding Scheme
+    url: /programmes/proof-of-concept-funding-scheme/
+  - title: Youth Cyber Exploration Programme (YCEP)
+    url: /programmes/ycep/
+
+- title: Careers
+  url: /careers/overview/
+  sub-links:
+  - title: Overview
+    url: /careers/overview/
+  - title: Job Opportunities
+    url: /careers/job-opportunities/
+  - title: Scholarships
+    url: /careers/scholarships/
+  - title: Internships
+    url: /careers/internships/
     
-- title: Resource Room
-  url: /resource-room/
+- title: News
+  url: /news/
   sub-links:
   - title: All
-    url: /resource-room/
-  - title: Subcategory A
-    url: /resource-room/subcategory-A/
-  - title: Subcategory B
-    url: /resource-room/subcategory-B/
-  - title: Subcategory C
-    url: /resource-room/subcategory-C/
+    url: /news/
+  - title: News Articles
+    url: /news/news-articles/
+  - title: Press Releases
+    url: /news/press-releases/
+  - title: Publications
+    url: /news/publications/
+  - title: Speeches
+    url: /news/speeches/
+  - title: Videos
+    url: /news/videos/
+
+- title: Contact Us
+  url: /contact-us/
